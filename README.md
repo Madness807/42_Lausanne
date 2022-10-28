@@ -15,9 +15,9 @@
 ## ⭕ 2
 | Projet  | Techno  |Goal |Repo|
 | :--------------- |:---------------:| :-----| -----:| 
-| so_long | <img alt="C" 			src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white"/>      |This project is a small 2D game with minilibx.   |  ...  |
+| so_long | <img alt="C" 			src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white"/>      |This project is a small 2D game with minilibx.   |  [🔗](https://github.com/Madness807/so_long)  |
 | push_swap  | <img alt="C" 			src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white"/>    | Trier des données sur une pile, avec un set d’instructions limité, en moins de coups possibles. | ...  |
-| pipex | c   |  ...    | ...  |
+| pipex | <img alt="C" 			src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white"/>   |  ...    | ...  |
 
 ## ⭕ 3
 | Projet  | Techno  |Goal |Repo|
@@ -35,7 +35,7 @@
 ## ⭕ 5
 | Projet  | Techno  |Goal |Repo|
 | :--------------- |:---------------:| :-----| -----:| 
-| nception |      |...   |  ...  |
+| Inception |      |...   |  ...  |
 | ft_containers| <img alt="Docker" 		src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white"/>    | .. | ...  |
 | webserv|     | .. | ...  |
 
