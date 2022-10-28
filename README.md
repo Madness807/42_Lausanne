@@ -1,13 +1,11 @@
-# 42_Lausanne
+# 42 Lausanne
 
-
-# Cercle 0
+## Cercle 0
 | Projet  | Techno | Repo|
 | :--------------- |:---------------:| -----:|
 | Libft |   c       |[🔗](https://github.com/Madness807/42_libft)|
 
-
-# Cercle 1
+## Cercle 1
 | Projet  | Techno  |Repo|
 | :--------------- |:---------------:| -----:| 
 | Born2beroot | Bash          |  ...  |
