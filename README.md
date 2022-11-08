@@ -8,7 +8,7 @@
 ## ⭕ 1
 | Projet  | Techno |Goal |Repo|
 | :---------------  |:---------------:| :-----| -----:| 
-| Born2beroot       | Bash  | Serveur Linux (VM)  |   [🔗](https://github.com/Madness807/42_Born2beroot)                                                     |
+| Born2beroot       | <img alt="GNU Bash" 		src="https://img.shields.io/badge/-Bash-4EAA25?logo=GNU Bash&logoColor=white"/>  | Serveur Linux (VM)  |   [🔗](https://github.com/Madness807/42_Born2beroot)                                                     |
 | ft_printf         | <img alt="C" 			src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white"/>     | Recoder la fonction printf         | [🔗](https://github.com/Madness807/42_ft_printf)      |
 | Get_next_line     | <img alt="C" 			src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white"/>     |         | [🔗](https://github.com/Madness807/42_get_next_line)  |
 
