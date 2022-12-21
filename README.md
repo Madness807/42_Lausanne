@@ -1,19 +1,24 @@
 # 42 Lausanne
 
+| Ressources       | Techno                                                                                                     |Repo                                              |
+| :--------------- |:---------------:                                                                                           |:-----                                            |
+| Ma Lib 42        |<img alt="C" 			        src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white"/>             |[🔗](ttps://github.com/Madness807/42Ressources)   |
+
+
 ## 🟢 0
 | Projet           | Techno                                                                                                     |Goal                                                                                                                                                             | Repo                                                  |Status|
 | :--------------- |:---------------:                                                                                           |:-----                                                                                                                                                           |-----:                                                 |------|
 | Libft            |<img alt="C" 			        src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white"/>             |Recoder un certain nombre de fonctions de la librairie C standard, ainsi que d'autres fonctions utilitaires que vous réutiliserez tout au long de votre cursus.  |[🔗](https://github.com/Madness807/42_libft)           |✅|
 
-## 🔵 1
+## 🟢 1
 | Projet            | Techno                                                                                                    |Goal                                                                                                                                                             |Repo                                                    |Status|
 | :---------------  |:---------------:                                                                                          | :-----                                                                                                                                                          |-----:                                                  |------|
-| Born2beroot       | <img alt="GNU Bash" 		src="https://img.shields.io/badge/-Bash-4EAA25?logo=GNU Bash&logoColor=white"/>   | Serveur Linux (VM)                                                                                                                                              |  [🔗](https://github.com/Madness807/42_Born2beroot)    |🚧|
+| Born2beroot       | <img alt="GNU Bash" 		src="https://img.shields.io/badge/-Bash-4EAA25?logo=GNU Bash&logoColor=white"/>   | Serveur Linux (VM)                                                                                                                                              |  [🔗](https://github.com/Madness807/42_Born2beroot)    |✅|
 | ft_printf         | <img alt="C" 			      src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white"/>             | Recoder la fonction printf                                                                                                                                      |  [🔗](https://github.com/Madness807/42_ft_printf)      |✅|
 | Get_next_line     | <img alt="C" 			      src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white"/>             | Recuperer la prochaine ligne                                                                                                                                    | [🔗](https://github.com/Madness807/42_get_next_line)   |✅|
 | Examen Rank 01    | <img alt="C" 			      src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white"/>             |Examen Rank 01                                                                                                                                                   |   ⛔️                                                     |⌛️|
 
-## 🔴 2
+## 🔵 2
 | Projet            | Techno                                                                                                    |Goal                                                                                                                                                             |Repo                                                     |Status|
 | :---------------  |:---------------:                                                                                          | :-----                                                                                                                                                          | -----:                                                  |------| 
 | so_long           | <img alt="C" 			      src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white"/>             |This project is a small 2D game with minilibx.                                                                                                                   | [🔗](https://github.com/Madness807/so_long)              |⌛️|
