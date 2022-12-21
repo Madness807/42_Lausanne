@@ -2,7 +2,7 @@
 
 | Ressources       | Techno                                                                                                     |Repo                                              |
 | :--------------- |:---------------:                                                                                           |:-----                                            |
-| Ma Lib 42        |<img alt="C" 			        src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white"/>             |[🔗](ttps://github.com/Madness807/42Ressources)   |
+| Ma Lib 42        |<img alt="C" 			        src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white"/>             |[🔗](https://github.com/Madness807/42Ressources)   |
 
 
 ## 🟢 0
