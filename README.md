@@ -1,4 +1,4 @@
-# 42 Lausanne
+# 42 Lausanne - joterret
 
 | Ressources       | Techno                                                                                                     |Repo                                              |
 | :--------------- |:---------------:                                                                                           |:-----                                            |
