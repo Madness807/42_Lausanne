@@ -1,17 +1,18 @@
 # 42 Lausanne - joterret
 
 ## 🧰 Boite a outils
-| Ressources        | Utilité                 | Repo                                              |
-| :---------------  | :------                 |:-----:                                            |
-| Ma Lib 42         | Ma libraire evolutive   |[🔗](https://github.com/Madness807/42Ressources)   |
-| Francinette       | Outils de test          |[🔗](https://github.com/xicodomingues/francinette) |
-| Grademe           | Simulation d'examen     |[🔗](https://grademe.fr/)                          |
+| Ressources        | Utilité                   | Repo                                                    |
+| :---------------  | :------                   |:-----:                                                  |
+| Ma Lib 42         | Ma libraire evolutive     |[🔗](https://github.com/Madness807/42Ressources)         |
+| Mon template      | Template pour les projets |[🔗](https://github.com/Madness807/42_Project_template)  |
+| Francinette       | Outils de test            |[🔗](https://github.com/xicodomingues/francinette)       |
+| Grademe           | Simulation d'examen       |[🔗](https://grademe.fr/)                                |
 
 
 ## 🟢 0
 | Projet            | Techno                                                                                                     |Goal                                                                                                                                                             | Repo                                                  |Status|
 | :---------------  |:---------------:                                                                                           |:-----                                                                                                                                                           |:-----:                                                 |:------:|
-| Libft             |<img alt="C" 			        src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white"/>             |Recoder un certain nombre de fonctions de la librairie C standard, ainsi que d'autres fonctions utilitaires que vous réutiliserez tout au long de votre cursus   |[🔗](https://github.com/Madness807/42_libft)           |✅|
+| Libft             |<img alt="C" 			        src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white"/>             |Recoder un certain nombre de fonctions de la librairie C standard.                                                                                              |[🔗](https://github.com/Madness807/42_libft)           |✅|
 
 ## 🟢 1
 | **Projet**        | **Techno**                                                                                                |**Goal**                                                                                                                                                         |**Repo**                                               |**Status**|
