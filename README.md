@@ -5,9 +5,6 @@
 | :---------------  | :------                   |:-----:                                                  |
 | My 42 Lib         | My evolutionary C library |[🔗](https://github.com/Madness807/42Ressources)         |
 | My template       | Template for projects     |[🔗](https://github.com/Madness807/42_Project_template)  |
-| Francinette       | Testing tools             |[🔗](https://github.com/xicodomingues/francinette)       |
-| Grademe           | Exam simulation           |[🔗](https://grademe.fr/)                                |
-
 
 ## 🟢 0
 | Projet            | Techno                                                                                                      |Goal                                                                                             | Repo                                                  |Status|
