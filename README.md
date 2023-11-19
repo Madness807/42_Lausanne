@@ -26,14 +26,14 @@
 | pipex             | <img alt="C" 			      src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white"/>               |Redirections and Pipes                                                                           |[🔗](https://github.com/Madness807/42_pipex)           |✅|
 | Examen Rank 02    | <img alt="C" 			      src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white"/>               |Examen Rank 02                                                                                   |⛔️                                                     |✅|
 
-## 🔵 3
+## 🟢 3
 | Projet            | Techno                                                                                                      |Goal                                                                                             |Repo                                                    |Status|
 | :---------------  |:-------------------------------------------------------------------------------------------------------:    |:------------------------------------------------------------------------------------------                                                                                                                                                           |:-----:                                                 |:------:| 
 | minishell         | <img alt="Bash" 		    src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white"/>               |The goal of this project is to create a simple shell.                                            |[🔗](https://github.com/Madness807/minishell)           |✅|
 | Philosophers      | <img alt="C" 			      src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white"/>               |Understand the use of "threads                                                                   |[🔗](https://github.com/Madness807/Philosophers)        |✅|
 | Examen Rank 03    | <img alt="C" 			      src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white"/>               |Examen Rank 03                                                                                   |⛔️                                                      |✅|
 
-## 🔴 4
+## 🔵 4
 | Projet            | Techno                                                                                                      |Goal                                                                                             |Repo                                                    |Status|
 | :---------------  |:-------------------------------------------------------------------------------------------------------:    |:------------------------------------------------------------------------------------------                                                                                                                                                           |:-----:                                                 |:------:| 
 | NetPractice       |  TCP/IP                                                                                                     |Network learning                                                                                 | [🔗](https://github.com/Madness807/NetPractice)        |🔲|
