@@ -1,5 +1,7 @@
 # 42 Lausanne - joterret
 
+[![joterret's 42 stats](https://badge.mediaplus.ma/darkblue/joterret?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
 ## 🟢 0
 | Projet            | Techno                                                                                                      |Goal                                                                                             | Repo                                                  |Status|
 | :---------------  |:-------------------------------------------------------------------------------------------------------:    |:------------------------------------------------------------------------------------------                                                                                                                                                           |:-----:                                                 |:------:|
