@@ -1,11 +1,5 @@
 # 42 Lausanne - joterret
 
-## 🧰 Boite a outils
-| Ressources        | Utilité                   | Repo                                                    |
-| :---------------  | :------                   |:-----:                                                  |
-| My 42 Lib         | My evolutionary C library |[🔗](https://github.com/Madness807/42Ressources)         |
-| My template       | Template for projects     |[🔗](https://github.com/Madness807/42_Project_template)  |
-
 ## 🟢 0
 | Projet            | Techno                                                                                                      |Goal                                                                                             | Repo                                                  |Status|
 | :---------------  |:-------------------------------------------------------------------------------------------------------:    |:------------------------------------------------------------------------------------------                                                                                                                                                           |:-----:                                                 |:------:|
