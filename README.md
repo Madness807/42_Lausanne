@@ -35,7 +35,7 @@
 | NetPractice       |  TCP/IP                                                                                                     |Network learning                                                                                 | [🔗](https://github.com/Madness807/NetPractice)        |✅|
 | cub3d             | <img alt="C" 			      src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white"/>               |Create an fps game with ray casting                                                              | [🔗](https://github.com/Madness807/cub3d)              |✅|
 | CPP (0 -> 4)      | <img alt="C++" 			    src="https://img.shields.io/badge/-C++-00599C?logo=C++&logoColor=white"/>           |Module 0 to 4                                                                                    | [🔗](https://github.com/Madness807/CPP)                |✅|
-| Examen Rank 04    | <img alt="C" 			      src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white"/>               |Examen Rank 04 (Microshell)                                                                      | ⛔️                                                     |🔲|
+| Examen Rank 04    | <img alt="C" 			      src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white"/>               |Examen Rank 04 (Microshell)                                                                      | ⛔️                                                     |✅|
 
 ## 🔴 5
 | Projet            | Techno                                                                                                      |Goal                                                                                             |Repo                                                    |Status|
